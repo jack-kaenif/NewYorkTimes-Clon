@@ -52,3 +52,26 @@ nav ul  li {
     text-decoration: none;
     color: black;
 }
+
+.cont2{
+    display: flex;
+    position: absolute;
+    width: 64vw;
+    left: 50%;
+    transform: translate(-50%);
+    justify-content: center;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.news-mininav{
+    position: relative;
+    width: max-content;
+    display: grid;
+    grid-template-columns: repeat(7,8rem);
+    grid-template-rows: 1fr;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    background-color: aqua;
+}
