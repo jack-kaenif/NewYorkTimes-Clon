@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Playfair Display', serif;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
 }
 
 header {
@@ -15,11 +25,33 @@ header {
 
 nav {
     display: flex;
-    
+    align-items: center;
+    justify-content: center;
+    width: inherit;
 }
 
+<<<<<<< HEAD
 li {
     
 }
     text-decoration: none;
 }
+=======
+nav ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav ul  li {
+    display: inline;
+}
+
+.container-1 a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+>>>>>>> 42a9d07a8845feb69f17e3ff69f305829399b5b0
