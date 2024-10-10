@@ -5,13 +5,21 @@
 }
 
 header {
-
+    position: relative;
+    height: 10rem;
+    width: 64vw;
+    left: 50vw;
+    transform: translate(-50%);
+    border-bottom: 1px solid black;
 }
 
 nav {
-
+    display: flex;
+    
 }
 
 li {
     
+}
+    text-decoration: none;
 }
