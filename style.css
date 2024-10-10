@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 header {
@@ -21,3 +22,4 @@ nav {
 li {
     text-decoration: none;
 }
+
