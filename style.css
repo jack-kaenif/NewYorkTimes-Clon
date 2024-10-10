@@ -30,13 +30,11 @@ nav {
     width: inherit;
 }
 
-<<<<<<< HEAD
 li {
     
 }
     text-decoration: none;
 }
-=======
 nav ul {
     text-decoration: none;
     list-style-type: none;
@@ -54,4 +52,3 @@ nav ul  li {
     text-decoration: none;
     color: black;
 }
->>>>>>> 42a9d07a8845feb69f17e3ff69f305829399b5b0
